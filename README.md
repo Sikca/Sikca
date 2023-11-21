@@ -5,6 +5,6 @@
 박주형입니다.
 
 # Skills
-![C++](https://img.shields.io/badge/C++%20IDE-00599C.svg?&style=for-the-badge&logo=C++%20IDE&logoColor=white)
+![C++](https://img.shields.io/badge/C++%20-00599C.svg?&style=for-the-badge&logo=C++%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Golf](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby%20-CC342D.svg?&style=for-the-badge&logo=Ruby%20Script&logoColor=white)
